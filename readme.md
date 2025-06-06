@@ -100,11 +100,13 @@ Todos os eventos são salvos no dispositivo utilizando o `AsyncStorage`. Os dado
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autores
 
-Eduardo Pielich Sanchez
-Engenharia de Software – FIAP
-FATEC Antônio Russo – Análise e Desenvolvimento de Sistemas
-GitHub: [@Poliester2005](https://github.com/Poliester2005)
+Este projeto foi desenvolvido por:
+
+- **Débora da Silva Amaral** – RM: 550412  
+- **Eduardo Pielich Sanchez** – RM: 99767  
+- **Lívia Namba Seraphim** – RM: 97819
+
 
 ---
